@@ -1,4 +1,4 @@
-## Predicting Sale Price of Houses
+## Predicting House Sale Prices in Ames, Iowa.
 The aim of the project is to build a machine learning model to predict the sale price of homes based on different explanatory variables describing aspects of residential houses.
 
 ## Question of Interest
