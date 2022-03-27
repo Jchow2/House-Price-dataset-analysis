@@ -1,4 +1,4 @@
-## Predicting House Sale Prices in Ames, Iowa.
+## Predicting House Sale Prices
 The aim of the project is to build a machine learning model to predict the sale price of homes based on different explanatory variables describing aspects of residential houses.
 This is an important topic to research because predicting house prices identifies fruitful investments, or to determine whether small housing market prices advertised for a house is over or under-estimated. Our data science team aimed to minimise the difference between the real price and the price estimated by our model. We evaluated the performance of our model using the mean squared error (mse), root squared of the mean squared error (rmse), R squared (R2). Our data science team use successful in building a predictive machine learning model with an accuracy level around 95 percent. 
 
